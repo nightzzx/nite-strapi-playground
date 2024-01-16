@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "new_about_singles",
+  "info": {
+    "singularName": "new-about-single",
+    "pluralName": "new-about-singles",
+    "displayName": "new about single"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
